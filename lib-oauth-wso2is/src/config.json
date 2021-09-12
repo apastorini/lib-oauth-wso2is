@@ -1,0 +1,21 @@
+{
+    "get_token_URL": "https://wso2is-test.pge.red.uy/oauth2/token",
+    "validate_token_URL": "https://wso2is-test.pge.red.uy/oauth2/introspect",
+    "revoke_token_URL": "https://wso2is-test.pge.red.uy/oauth2/revoke",
+
+    "userValidation": "tokenValidation",
+    "passValidation": "tokenValidation",
+    
+    "grant_type": "password",
+    "username": "ou=gerencia de proyectos,o=agesic,o=presidencia de la republica,o=poder ejecutivo,o=gobierno nacional,o=gobierno,c=uy",
+    "password": "Passw0rd",
+    "scope": "scopetest",
+
+    "tokenJWT": "false",
+
+    "default_client_key": "gTodNtdRK60f_UnxGxa9a9V9Mr8a",
+    "default_client_secret": "B9Mw_MKbfL24xRm9ycJOMXnzucEa",
+
+    "jwt_client_key": "Rpgeo5kYrZHUbK0uPD97REkrS44a",
+    "jwt_client_secret": "uIrmeaEXwj81bDet6HED0vAhkhca"
+}
